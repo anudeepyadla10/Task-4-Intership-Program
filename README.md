@@ -1,2 +1,3 @@
 # Task-4-Intership-Program
-Exploratory Data Analysis
+Exploratory Data Analysis on a dataset.
+By Creating visualizations, distribution of variables, identify outliers, and check for correlations between variables...
